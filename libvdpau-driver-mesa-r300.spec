@@ -24,12 +24,12 @@ Summary:	Mesa r300 driver for the vdpau API
 Summary(pl.UTF-8):	Sterownik Mesa r300 dla API vdpau
 Name:		libvdpau-driver-mesa-r300
 # 23.0.x were the last containing vdpau r300 driver
-Version:	23.0.3
+Version:	23.0.4
 Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	https://archive.mesa3d.org/mesa-%{version}.tar.xz
-# Source0-md5:	3d5025f4f135a1d9131183ac75ba91e4
+# Source0-md5:	2339e40727fe7c8f092cd33886d53479
 URL:		https://www.mesa3d.org/
 BuildRequires:	bison > 2.3
 BuildRequires:	elfutils-devel
